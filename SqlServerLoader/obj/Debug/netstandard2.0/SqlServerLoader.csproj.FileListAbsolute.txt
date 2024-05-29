@@ -1,0 +1,10 @@
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\bin\Debug\netstandard2.0\SqlServerLoader.deps.json
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\bin\Debug\netstandard2.0\SqlServerLoader.dll
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\bin\Debug\netstandard2.0\SqlServerLoader.pdb
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.csproj.AssemblyReference.cache
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.AssemblyInfoInputs.cache
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.AssemblyInfo.cs
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.csproj.CoreCompileInputs.cache
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.dll
+C:\Users\andro\Downloads\TestProject\TestProject\SqlServerLoader\obj\Debug\netstandard2.0\SqlServerLoader.pdb
