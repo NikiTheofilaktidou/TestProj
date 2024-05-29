@@ -1,0 +1,10 @@
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\bin\Debug\netstandard2.0\FileLoader.deps.json
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\bin\Debug\netstandard2.0\FileLoader.dll
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\bin\Debug\netstandard2.0\FileLoader.pdb
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.csproj.AssemblyReference.cache
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.AssemblyInfoInputs.cache
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.AssemblyInfo.cs
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.csproj.CoreCompileInputs.cache
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.dll
+C:\Users\andro\Downloads\TestProject\TestProject\FileLoader\obj\Debug\netstandard2.0\FileLoader.pdb
