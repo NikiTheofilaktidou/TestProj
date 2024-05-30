@@ -15,6 +15,7 @@ namespace VendorsWebService
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            RegisterUnity();
         }
 
         private void RegisterUnity()
@@ -28,13 +29,13 @@ namespace VendorsWebService
             //Registering dependencies for DataLoader
             container.RegisterType<DataLoader>(new HierarchicalLifetimeManager(), new InjectionConstructor("server", "userid", "password"));
 
-            string loaderTypes = System.Configuration.ConfigurationManager.AppSettings["LoaderTypes"];
+            string loaderType = System.Configuration.ConfigurationManager.AppSettings["LoaderType"];
 
-            if (loaderTypes.IndexOf("Supplier", StringComparison.OrdinalIgnoreCase) >= 0)
+            if (loaderType=="Supplier")
             {
                 container.RegisterType<IVendorLoader, SupplierLoaderAdapter>(new HierarchicalLifetimeManager());
             }
-            else if (loaderTypes.IndexOf("Trader", StringComparison.OrdinalIgnoreCase) >= 0)
+            else if (loaderType=="Trader")
             {
                 container.RegisterType<IVendorLoader, TraderLoaderAdapter>(new HierarchicalLifetimeManager());
             }
